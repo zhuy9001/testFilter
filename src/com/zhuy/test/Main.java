@@ -39,6 +39,8 @@ public class Main {
 		}
 	}
 	
+	
+	
 	public static void main(String[] str){
 		  int[] array = {12,76,35,22,16,48,90,46,9,40};
 		  Tree root = new Tree(array[0]);   //´´½¨¶þ²æÊ÷
